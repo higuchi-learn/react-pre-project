@@ -1,5 +1,5 @@
 //Fruits.tsx
-const fruits: string[] = ["蜜柑", "林檎", "西瓜", "ＢＡＮＡＮＡ", "オレンジ"];
+const fruits: string[] = [",みかん", "林檎", "西瓜", "バナナ", "オレンジ"];
 
 export default function List() {
   const listItems = fruits.map(fruits =>
