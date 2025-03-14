@@ -1,4 +1,4 @@
-//Vegetables.tsx
+//Animals.tsx
 const animals: string[] = ["犬", "猫", "猿", "鳥", "鼠"];
 
 export default function List() {
